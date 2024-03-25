@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PROSSYNABBONA
+- 👋 Hi, I’m NABBONA PROSSY
 - 👀 I’m interested in programming python,java,laravel,UI/UX 
 - 🌱 I’m currently learning manchine learning
 - 💞️ I’m looking to collaborate on different job opportunities related to software engineering
