@@ -1,6 +1,6 @@
 - 👋 Hi, I’m NABBONA PROSSY
-- 👀 I’m interested in programming python,java,laravel,UI/UX 
-- 🌱 I’m currently learning manchine learning
+- 🌱 I am an expert in website development and application development.
+- 👀 I’m interested in programming,php,js,html,css,python,java,laravel,UI/UX 
 - 💞️ I’m looking to collaborate on different job opportunities related to software engineering
 - 📫 How to reach me 0758624016    , my linked in account https://www.linkedin.com/in/nabbona-prossy-174560254/
   
