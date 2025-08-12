@@ -30,8 +30,8 @@ I enjoy creating responsive, user-friendly products that solve real-world proble
 ![Laravel](https://img.shields.io/badge/-Laravel-red?logo=laravel)  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap)  
 ![Git](https://img.shields.io/badge/-Git-orange?logo=git)  
-![React](https://img.shields.io/badge/-VSCode-blue?logo=visualstudiocode)  
-![Django](https://img.shields.io/badge/-VSCode-blue?logo=visualstudiocode)  
+![React](https://img.shields.io/badge/-React-blue?logo=visualstudiocode)  
+![Django](https://img.shields.io/badge/-Django-blue?logo=visualstudiocode)  
 
 
 ---
