@@ -3,6 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nabbona-prossy-174560254/)  
 [![Email](https://img.shields.io/badge/Email-prossienabbona20%40gmail.com-red?logo=gmail)](mailto:prossienabbona20@gmail.com)  
+View my portfolio: https://nabbona-prossy-portfolio.onrender.com/
 📱 **Call/WhatsApp:** 0758624016  
 
 ---
